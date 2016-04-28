@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Gotta Get It!!!]]></title>
         <description><![CDATA[Gotta Get It!!!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/noels-sexy-fit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 19:04:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 19:14:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noels-sexy-fit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a939f953-9eac-4b84-9e40-48cc372dbb50.jpg" alt="" title="" />]]></description>
-            <link>undefineda-note-from-noel/index.html</link>
+            <link>https://thegrid.ai/noels-sexy-fit/a-note-from-noel/index.html</link>
             <guid isPermaLink="false">bba437ea-587c-4d23-b8e1-2a86e111c29e</guid>
             <pubDate>Thu, 28 Apr 2016 19:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SummerBreeze - (Smooth beats) by Makaih Beats]]></title>
+            <description><![CDATA[<article><h1>SummerBreeze - (Smooth beats) by Makaih Beats</h1><p>get this beat at http://makaihbeats.net Software I use: http://bit.ly/makaihsoftware Email: hhbeatsonline@gmail.com Royalty Free Music and Beats by Makaih</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50add44a0261d63c6b7543cfa4d1021d03dbb065.jpg"></article>]]></description>
+            <link>https://soundcloud.com/buybeats/summerbreeze-instrumental-tape</link>
+            <guid isPermaLink="false">78ba3176-cb5a-4aee-9e84-c7f849bbb132</guid>
+            <pubDate>Thu, 28 Apr 2016 19:14:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
