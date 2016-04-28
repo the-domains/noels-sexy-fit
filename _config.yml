@@ -1,6 +1,6 @@
 name: Noels Sexy Fit
 favicon: null
-layout_spectrum: 0.11909133498556912
+layout_spectrum: 0.99539
 typography_spectrum: 0.2274503093212843
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.9113647267222404
   lightness: 0.9139247161801904
   saturation: 0.046438912162557244
-  rhythmicContrast: 0.4293329967185855
+  rhythmicContrast: 0.75
 purpose: []
