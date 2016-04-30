@@ -4,7 +4,7 @@
         <description><![CDATA[Gotta Get It!!!]]></description>
         <link>http://noelssexyfit.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 03:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 03:06:06 GMT</lastBuildDate>
         <atom:link href="http://noelssexyfit.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>http://noelssexyfit.com/a-note-from-noel/index.html</link>
             <guid isPermaLink="false">bba437ea-587c-4d23-b8e1-2a86e111c29e</guid>
             <pubDate>Thu, 28 Apr 2016 19:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://facebook.com/NoelsFitClub</link>
+            <guid isPermaLink="false">b9cf55a9-6500-4b42-baf3-931f852d0218</guid>
+            <pubDate>Sat, 30 Apr 2016 03:06:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +73,6 @@
             <description><![CDATA[<p>Beginner: These Sexy Fit sessions are designed to get the body moving!! Is highly recommended for any new members or first time visitors. The sessions have special emphasis on the how to’s, to ensure exercises have maximized potential!!Lower impact, modified moves, on the floor cardio (1st 2wks) with all the benefits of specialized core, back, legs and glute workouts. Topped off with refreshing yet challenging Pilates!! These sessions do include an introduction to strength training (wk4) and more.</p>]]></description>
             <link>http://noelssexyfit.com/beginner-these-sexy-fit-sessions-are-designed-to-get-the-bo/index.html</link>
             <guid isPermaLink="false">26329891-faa6-4d06-a2f7-a5d4168fd599</guid>
-            <pubDate>Thu, 28 Apr 2016 21:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Speed Class: These Sexy Fit sessions are specially designed to just burn fat. High intensity floor cardio, stepper cardio, & core. Not recommended for beginners. No strength training (45mins).</p>]]></description>
-            <link>http://noelssexyfit.com/speed-class-these-sexy-fit-sessions-are-specially-designed/index.html</link>
-            <guid isPermaLink="false">01ac4211-db85-4483-970c-2e590abf1a28</guid>
             <pubDate>Thu, 28 Apr 2016 21:44:58 GMT</pubDate>
         </item>
     </channel>
