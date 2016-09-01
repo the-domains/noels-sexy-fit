@@ -1,20 +1,4 @@
-name: Noels Sexy Fit
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 1
-title: 'Gotta Get It!!!'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.9139247161801904
   saturation: 0.046438912162557244
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: UA-83391720-1
+  facebook: null
+  twitter: null
+name: Noels Sexy Fit
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Gotta Get It!!!
 purpose: []
